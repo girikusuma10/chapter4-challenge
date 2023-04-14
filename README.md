@@ -133,6 +133,7 @@ Adalah tugas challenge chapter bagian 4 mengenai sistem informasi data mobil pad
 
 
 ## steps :
+* git clone https://github.com/girikusuma10/chapter4-challenge
 * buat database dengan nama binar_cars
 * git clone di github 
 * npm install
